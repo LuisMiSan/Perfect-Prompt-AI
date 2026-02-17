@@ -1,6 +1,6 @@
 {
   "name": "Perfect Prompt AI",
-  "description": "An application that helps users create perfect, detailed, and effective prompts for AI models by leveraging Gemini to refine their initial ideas.",
+  "description": "Una aplicación que ayuda a los usuarios a crear indicaciones perfectas, detalladas y efectivas para modelos de IA aprovechando Gemini para refinar sus ideas iniciales.",
   "requestFramePermissions": [
     "microphone"
   ]
